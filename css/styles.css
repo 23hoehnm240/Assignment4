@@ -1,0 +1,48 @@
+Body{
+  font-family:cursive;
+  font-size: 1.5rem;
+  background-color:#000000;
+  color:#E8F9FD;
+}
+
+.profile{
+  Height:300px;
+  Width:300px;
+}
+
+a:link{
+  color:#874C62;
+}
+a:visited{
+  color:#A084CA;
+}
+a:hover{
+  color:#850E35;
+}
+
+.picture{;
+  Height:180px;
+  Width:180px;
+}
+
+
+.infoAlignment{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerTable{
+  Margin-left:auto;
+  Margin-right:auto;
+}
+
+
+.profileAlignment{
+  Padding-left:20%;
+  Padding-right:20%;
+}
+
+
+.links{
+  Padding:10px;
+}
